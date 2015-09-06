@@ -54,3 +54,4 @@ public class ConnectionMockTest {
         assertTrue(c.readByteArray().length == 0);
     }
 }
+//add single line comment
